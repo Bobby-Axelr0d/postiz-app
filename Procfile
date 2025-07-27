@@ -1,2 +1,2 @@
-web: pnpm run start:prod:backend
-worker: pnpm run start:prod:frontend
+web: pnpm run start:prod:frontend
+worker: pnpm run start:prod:backend
